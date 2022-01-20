@@ -1,4 +1,4 @@
-<html dir="ltr" style="--primary:#6cbcc7; --secondary:#222222; --headings:#222222; --body-color:#706f6e;"><head>
+<html dir="ltr" style="--primary:#6cbcc7; --secondary:#222222; --headings:#222222; --body-color:#706f6e;" prefix="og: http://ogp.me/ns#"><head>
 		<meta charset="utf-8">
 		<meta name="description" content="juhighu
 ">
